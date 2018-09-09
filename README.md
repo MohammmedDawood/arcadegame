@@ -8,6 +8,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## you can play : )
 
 [Click here to play](https://mahmedtony73.github.io/arcadegame/)
+**or you can download the reposotry or clone it to your local and open the index file**
 
 ![game preview](https://github.com/mahmedtony73/arcadegame/blob/master/images/game.PNG "game preview")
 
@@ -19,7 +20,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 ## Additional features:
 
 
-* fucntion reset(); for the player
+* function reset(); for the player
 * Player selection: allow the user to select the image for the player character before starting the game. You can use the different character images provided in the images folder (we’ll get to that below).
 * Score: you can implement a score for the game. For example, the score can increase each time the player reaches the water, and it can be reset to 0 when collision occurs (or it can be reduced).
 * Collectibles: you can add gems to the game, allowing the player to collect them to make the game more interesting.
