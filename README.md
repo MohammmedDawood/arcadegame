@@ -7,7 +7,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 ## you can play : )
 
-[Click here to play]()
+[Click here to play](https://mahmedtony73.github.io/arcadegame/)
 
 ![game preview](https://github.com/mahmedtony73/arcadegame/blob/master/images/game.PNG "game preview")
 
