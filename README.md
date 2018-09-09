@@ -9,7 +9,7 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 [Click here to play]()
 
-![game preview]( "game preview")
+![game preview](https://github.com/mahmedtony73/arcadegame/blob/master/images/game.PNG "game preview")
 
 
 ## Basic Functionality.
